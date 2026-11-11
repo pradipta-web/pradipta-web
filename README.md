@@ -32,12 +32,6 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,windows,git,github,vscode" />
 </p>
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradipta-web&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipta-web&layout=compact&theme=tokyonight" height="165" />
-</p>
 
 ### 🤝 Connect With Me
 
