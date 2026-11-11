@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradipta Raditya</h1>
 
-<h3 align="center">Python Learner | Networking Enthusiast | IT Infrastructure Enthusiast</h3>
+<h3 align="center">Python Developer | Networking Enthusiast | IT Infrastructure Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Learning+Python+Development;Exploring+Computer+Networking;Building+IT+Infrastructure+Skills" alt="Typing SVG" />
