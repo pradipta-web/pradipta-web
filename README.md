@@ -21,10 +21,8 @@
 
 - Python Programming
 - Computer Networking
-- Linux System Administration
 - Server Management
 - Virtualization (Proxmox)
-- Git & GitHub
 
 ### 🛠️ Languages and Tools
 
