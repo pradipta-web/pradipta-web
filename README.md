@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradipta Raditya</h1>
+<h1 align="center">Hi 👋, I'm Kinervaaa</h1>
 
 <h3 align="center">Python Developer | Networking Enthusiast | IT Infrastructure Enthusiast</h3>
 
