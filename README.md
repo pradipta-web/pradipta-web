@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 👋 Hi! I'm **Pradipta Raditya**.
+- 👋 Hi! I'm **Kinervaaa**.
 - 💻 Interested in Python programming and software development.
 - 🌐 Exploring computer networking and network administration.
 - 🖥️ Learning IT infrastructure, server administration, and virtualization.
